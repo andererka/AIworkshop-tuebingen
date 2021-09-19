@@ -9,3 +9,5 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 #gem "jekyll", "~> 4.2"
 
 gem "github-pages", "~> 219", group: :jekyll_plugins
+
+gem 'jekyll-autolink_email'
