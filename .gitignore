@@ -7,4 +7,4 @@ site/_site/*
 site/Gemfile
 site/.sass-cache
 site/Gemfile*
-entwurf
+entwurf*
