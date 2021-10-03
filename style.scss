@@ -283,6 +283,25 @@ footer {
   text-align: center;
 }
 
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+}
+
+.column{
+   display:flex;
+   justify-content:center;
+   flex-direction: column;
+   flex-grow: 1;
+}
+
+.image_ai {
+  width: 230px;
+  height: 230px;
+  display: inline-block;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
