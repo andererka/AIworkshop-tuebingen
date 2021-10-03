@@ -5,12 +5,15 @@
 
     {% include meta.html %}
 
+
+
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -19,16 +22,25 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <img src="/images/ai.jpg" width="zoom:100%;" /> 
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+         
+            <p class="site-description">{{ site.description }}</p>  
+
+
           </div>
+          </p>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+
+            <a href="{{ site.baseurl }}/Workshop">Workshop</a>
+            
+            
+            <a href="{{ site.baseurl }}/about">About the Organizers</a>
+            <a href="{{ site.baseurl }}/Datenschutzerklärung">Privacy statement</a>
+            
           </nav>
         </header>
       </div>
@@ -41,11 +53,22 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+             <div class="row">
+                <div class="column">
+                    <img src="/images/excellence.jpeg" style="width:50%;">
+                </div>
+                <div class="column">
+                    <img src="/images/Bu.jpeg" style="width:50%;" />
+                </div>
+                <div class="column">
+                    <img src="/images/ministry.jpeg" style="width:50%;" />
+                </div>
+            </div> 
+
         </footer>
       </div>
     </div>
 
-    {% include analytics.html %}
+<!-- Hello, I am a comment. -->
   </body>
-</html>
+</html><a href="{{ site.baseurl }}/Workshop">Workshop</a>
