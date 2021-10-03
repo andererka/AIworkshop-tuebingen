@@ -8,3 +8,5 @@ site/Gemfile
 site/.sass-cache
 site/Gemfile*
 entwurf*
+*entwurf
+*_site
