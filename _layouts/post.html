@@ -7,11 +7,13 @@ layout: default
 
   <div class="entry">
     {{ content }}
-  </div>
+  
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+    <button type="button" 
+        onclick ="document.getElementById('content').style.height='auto'">
+        Read more
+    </button>
+    </div>
 
   {% include disqus.html %}
 </article>

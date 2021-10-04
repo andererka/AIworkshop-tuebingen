@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Datenschutzerklärung"
+title:  
 
 description:
 tags: 
@@ -13,6 +13,14 @@ typora-root-url: ../
 
 
 
-Hier kommt die Datenschutzerklärung hin
+- What information is collected and how
+
+  We do not collect any data or track 
+
+- Use of cookies, log files and tracking
+
+  No
+
+- How a user can opt out of data collection/usage
 
 
