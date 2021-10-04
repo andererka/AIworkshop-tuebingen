@@ -52,6 +52,6 @@ Tübingen and lecturer on subjects such as Virtual Reality, Augmented Reality an
 
 
 
-<a href="mailto:katharina.anderer@uni-tuebingen.de">katharina.anderer@uni-tuebingen.de</a>
+<a href="mailto:katharina.anderer@student.uni-tuebingen.de">katharina.anderer@student.uni-tuebingen.de</a>
 
 <img src="/images/Katharina.jpg" style="width:20%;" />
