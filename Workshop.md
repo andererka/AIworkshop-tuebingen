@@ -1,7 +1,7 @@
 ---
 layout: page
 
-
+title: 'Outline'
 tags: [AI, democracy, ethics]
 comments: true
 share: true
@@ -9,8 +9,6 @@ authors: [Katharina Anderer]
 typora-copy-images-to: ../media/katharina/
 typora-root-url: ../
 ---
-
-
 
 
 
@@ -38,8 +36,12 @@ interactive formats to facilitate profound discussions during the workshop.
 
 
 
+## Talks
 
 
 
+Andreas Jungherr
 
 
+
+Carina Prunkl
