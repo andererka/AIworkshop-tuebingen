@@ -57,3 +57,16 @@ Interested PhD students are welcome to apply with a short abstract (approx. 200 
 their research and its connection to the workshop’s subjects. Furthermore, we ask for a short personal
 motivational letter (app. 100 words) to participate in the workshop.
 Please send your application to ilja.mirsky@uni-tuebingen.de until November 19 th 2021.
+
+
+
+
+
+**What we offer:**
+The workshop’s aim is to create an inspiring atmosphere for young researchers to network and
+discuss the intersection and intervention points of democratic principles and AI/ML research.
+We will cover travel and accommodation costs for participants who are not based in Tübingen.
+By conducting this first PhD workshop on AI/ML research and democracy we want to launch and
+establish the scientific debate on young researchers’ responsibilities in this interdisciplinary area.
+You will find more detailed information about the workshop and the lecturers on our website:
+www.future-of-ai-and-democracy.de
