@@ -3,17 +3,17 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title | page.excerpt}}</h1>
 
   <div class="entry">
-    {{ content }}
-  
 
-    <button type="button" 
-        onclick ="document.getElementById('content').style.height='auto'">
-        Read more
-    </button>
-    </div>
+
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
 
   {% include disqus.html %}
 </article>

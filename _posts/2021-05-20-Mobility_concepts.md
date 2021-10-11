@@ -57,7 +57,3 @@ Interested PhD students are welcome to apply with a short abstract (approx. 200 
 their research and its connection to the workshop’s subjects. Furthermore, we ask for a short personal
 motivational letter (app. 100 words) to participate in the workshop.
 Please send your application to ilja.mirsky@uni-tuebingen.de until November 19 th 2021.
-
-
-
-https://grow-smarter.eu/fileadmin/editor-upload/Smart/Action_Area_3-compressed.pdf)
