@@ -293,14 +293,10 @@ footer {
    display:flex;
    justify-content:center;
    flex-direction: column;
-   flex-grow: 1;
+   flex-grow: 2;
 }
 
-.image_ai {
-  width: 230px;
-  height: 230px;
-  display: inline-block;
-}
+
 
 .content {
   overflow: hidden; 
