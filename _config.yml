@@ -3,8 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: International PhD Workshop on Artificial Intelligence and Machine Learning research and
-Democracy
+name: International PhD Workshop on Artificial Intelligence and Machine Learning research and Democracy
 
 # Short bio or description (displayed in the header)
 description: an interdisciplinary perspective. 29.1 – 31.1.2022 at the University of Tübingen
@@ -19,10 +18,10 @@ avatar: https://media.gettyimages.com/photos/artificial-intelligence-concept-pic
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: katharina.anderer@student.uni-tuebingen.de
   facebook:
   flickr:
-  github: 
+  github: https://github.com/andererka/AIworkshop-tuebingen
   instagram:
   linkedin:
   pinterest:

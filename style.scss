@@ -107,7 +107,17 @@ strong, b {
 }
 
 img {
+
   max-width: 100%;
+}
+
+
+
+imgai {
+
+    max-width: 100%;
+    width:  100px;
+    height: 100px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -293,7 +303,7 @@ footer {
    display:flex;
    justify-content:center;
    flex-direction: column;
-   flex-grow: 2;
+   flex-grow: 1;
 }
 
 

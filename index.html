@@ -2,19 +2,41 @@
 layout: default
 ---
 
+
+<p>
+
+<i>
+As the use of Machine Learning algorithms and Artificial Intelligence pervades all areas of
+our lives and societies, it also affects fundamental pillars of democracy, such as public
+debate, political decision making and (dis)information through media. In our PhD workshop
+entitled “*Artificial Intelligence and Machine Learning research and democracy – an*
+*interdisciplinary perspective*” we will provide a platform for young researchers from all
+relevant disciplines – from dedicated machine learning research to political science and
+every nuance in between – to engage in exchange of methods and current state of the art
+research. Our guiding question will be:
+
+<p>
+
+How can we shape the co-development of AI/ ML research and democracy?</i>
+<p>
+
+
+<p>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-
       <h1>
-      {% if post.excerpt != post.content %}
+       
 
-<b>Open Call</b>
+<b>{{post.title}}</b>
 
-<a class="read-more" href="{{ site.baseurl }}{{ post.url }}"> [Read more...]</a>
-{% endif %}
 </h1>
+{{ post.content | strip_html | truncatewords: 50 }}
+
+<a class="read-more" href="{{ site.baseurl }}{{ post.url }}{{post.excerpt}}"> [Read more...]</a>
+
 
 
 
@@ -25,20 +47,6 @@ layout: default
 
 
 
-<p>
-<b>Welcome!</b>
-<p>
-Meet other PhDs from machine learning and politics or related fields for an interdisiplinary workshop at the university of Tübingen.
-<p>
 
-
-There will be exiting talks and discussions. Besides, we want to find solutions and approaches for societal challenges that we face with new technologies.
-
-<p>
-
-
-The workshop will take place from <b>29.01 – 31.01.2022</b> at the University of Tübingen.
-
-<p>
 
 
