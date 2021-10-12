@@ -24,11 +24,17 @@ other relevant disciplines.
 
 <a href="mailto:larissa.hoefling@uni-tuebingen.de">larissa.hoefling@uni-tuebingen.de</a>
 
-**Ilja Mirsky** (B.Sc. Cognitive Science, M.S. Performance Studies) is a PhD student in the department of
-Media Studies at the University of Tübingen and at the Zurich University of the Arts. In his
-interdisciplinary research he combines the fields of AI research and Human-Computer Interaction on
-theatre stages. He is dramaturg at the “Institut für theatrale Zukunftsforschung” in the Zimmertheater
-Tübingen and lecturer on subjects such as Virtual Reality, Augmented Reality and Digital Dramaturgy.
+<p>
+    
+</p>
+
+
+
+**Ilja Mirsky** (B.Sc. Cognitive Science, M.A. Performance Studies) is a PhD student in the department of Media Studies at the University of Tübingen and at the Zurich University of the Arts. In his interdisciplinary research he combines the fields of AI research and Human-Computer Interaction on theatre stages. He is dramaturg at the “Institut für theatrale Zukunftsforschung” in the Zimmertheater Tübingen and lecturer on subjects such as Virtual Reality, Augmented Reality and Digital Dramaturgy at the University of Tübingen and the Academy of Performing Arts Baden-Württemberg.
+
+
+
+<img src="/images/Ilja.jpg" style="width:20%;" />
 
 
 
@@ -36,11 +42,9 @@ Tübingen and lecturer on subjects such as Virtual Reality, Augmented Reality an
 
 
 
-
-
-
-
-
+<p>
+    
+</p>
 
 
 
