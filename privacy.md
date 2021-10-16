@@ -93,7 +93,7 @@ The website of the International PhD Workshop on Artificial Intelligence and Mac
 
 When using these general data and information, the International PhD Workshop on Artificial Intelligence and Machine Learning research and Democracy does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the International PhD Workshop on Artificial Intelligence and Machine Learning research and Democracy analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
 
-\4. Routine erasure and blocking of personal data
+### 4. Routine erasure and blocking of personal data
 
 The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to.
 
