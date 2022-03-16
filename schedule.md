@@ -11,7 +11,7 @@ authors: [Katharina Anderer]
 
 
 
-<img src="/images/surface25144.png" style="width:20000px;"/>
+<img src="/images/schedule.png" style="width:20000px;"/>
 
 
 
