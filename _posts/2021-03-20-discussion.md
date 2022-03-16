@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Public discussion"
+title:  "Public panel discussion"
 date:   2021-10-10
 description: 
 comments: true
@@ -20,5 +20,5 @@ Everyone is invited to participate! Places are limited tough. In order to regist
 
 
 
-[https://www.coworkgroup.de/wir/events/event-details?tx_sfeventmgt_pievent%5Baction%5D=detail&tx_sfeventmgt_pievent%5Bcontroller%5D=Event&tx_sfeventmgt_pievent%5Bevent%5D=209&cHash=96bef29bd931ef141bd7f1c94540d9b7](https://www.coworkgroup.de/wir/events/event-details?tx_sfeventmgt_pievent%5Baction%5D=detail&tx_sfeventmgt_pievent%5Bcontroller%5D=Event&tx_sfeventmgt_pievent%5Bevent%5D=209&cHash=96bef29bd931ef141bd7f1c94540d9b7)
+[Registration link](https://www.coworkgroup.de/wir/events/event-details?tx_sfeventmgt_pievent%5Baction%5D=detail&tx_sfeventmgt_pievent%5Bcontroller%5D=Event&tx_sfeventmgt_pievent%5Bevent%5D=209&cHash=96bef29bd931ef141bd7f1c94540d9b7)
 
