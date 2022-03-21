@@ -9,7 +9,8 @@ share: true
 authors: [Katharina Anderer]
 ---
 
-
+<a href = "ai_and_democracy_schedule-10.pdf" download > 
+ <b> Download  schedule</b>  </a> 
 
 <img src="/images/schedule.png" style="width:20000px;"/>
 
