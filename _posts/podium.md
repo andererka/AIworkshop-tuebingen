@@ -13,7 +13,7 @@ authors: [Katharina Anderer]
 
 ### [Follow the Live Stream on YouTube](https://www.youtube.com/TubingenML)
 
-> 
+
 
 Öffentliche Diskussionsrunde zu KI und Demokratie in der Westspitze
 

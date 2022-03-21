@@ -16,7 +16,7 @@ typora-root-url: ../
 
 - **Dr. Thomas Grote**: "Ethics and Philosophy Lab" of the Cluster of Excellence "Machine Learning: New Perspectives for Science" at the University of Tübingen. (See Dr. Grote's homepage for further information: [https://sites.google.com/view/thomas-grote/startseite](https://sites.google.com/view/thomas-grote/startseite))
 
-  <u>Keynote talk</u>: "Regulating AI Systems -- Lessons from Clinical Medicine"
+  <u>Talk</u>: "Regulating AI Systems -- Lessons from Clinical Medicine"
   
   
   
