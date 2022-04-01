@@ -21,7 +21,7 @@ authors: [Katharina Anderer]
 
 Zur öffentlichen Abschlussveranstaltung des PhD Workshops „AI and democracy“ laden die Organisatoren gemeinsam mit der Tübinger Cowork Group am 04. April in die Westspitze ein. Eine 45-minütige Podiumsdiskussion eröffnet das Programm um 18:30 Uhr. Dann ist das Publikum gefragt: In drei 15-minütigen Gesprächsrunden an 10 Tischen tauschen sich die BesucherInnen untereinander und mit den DiskutantInnen sowie den TeilnehmerInnen des PhD Workshops aus. Ab ca. 21:00 Uhr gibt es Gelegenheit zum Austausch in lockerer Atmosphäre.
 
-Zur Podiumsdiskussion geladen sind Prof. Andreas Jungherr (Politikwissenschaftler, Universität Bamberg), Dr. Simon Schaupp (Soziologe, Universität Basel), Dr. Thomas Grote (Philosoph,  Universität Tübingen) und Prof. Ulrike von Luxburg (Informatikerin, Universität Tübingen). Die Moderation übernimmt die Wissenschaftsjournalistin Eva Wolfangel. 
+Zur Podiumsdiskussion geladen sind Dr. Viktoria Spaiser (Nachhaltigkeits- und Sozialwissenschaften, University of Leeds), Dr. Simon Schaupp (Soziologe, Universität Basel), Dr. Thomas Grote (Philosoph,  Universität Tübingen) und Prof. Ulrike von Luxburg (Informatikerin, Universität Tübingen). Die Moderation übernimmt die Wissenschaftsjournalistin Eva Wolfangel. 
 
 Der PhD Workshop an der Universität Tübingen ist gefördert vom *Bundesministerium für Bildung und Forschung (BMBF)*und dem *Wissenschaftsministerium Baden-Württemberg* im Rahmen der Exzellenzstrategie von Bund und Ländern.
 

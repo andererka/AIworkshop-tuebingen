@@ -9,10 +9,9 @@ share: true
 authors: [Katharina Anderer]
 ---
 
-<a href = "pdf_server.php?file=ai_and_democracy_schedule-10" download > 
- <b> Download  schedule</b>  </a> 
+<a href="schedule_01_04.png" download="schedule_01_04.png">Download</a>
 
-<img src="/images/schedule.png" style="width:20000px;"/>
+<img src="/images/schedule_01_04.png" style="width:20000px;"/>
 
 
 
