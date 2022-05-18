@@ -7,7 +7,7 @@ layout: default
 
 
 
-<b> Documentation of our workshop by Niklas Bub </b>
+<b> Documentation of our workshop </b>
 
 <p>
 
@@ -24,10 +24,18 @@ After two years of pandemic, the interdisciplinary PhD workshop ›AI and Democr
 
 <b> Interviews with participants </b>
 
-<video controls height="400" >
-  <source src="video.mp4" style="width:10%;"/>
 
-</video>
+
+
+{% if include.width != '' %}
+  <div style="width: {{include.width}}; margin:0 auto;">
+{% else %}
+  <div>
+{% endif %}
+  <div class="ytcontainer">
+    <iframe width="710" height="400" class="yt" allowfullscreen src="video.mp4"></iframe>
+  </div>
+</div>
 
 
 
