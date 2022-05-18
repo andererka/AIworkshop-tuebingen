@@ -1,0 +1,12 @@
+*.DS_Store
+vendor
+_site
+site/_site
+site/_site/*
+site/_site/*
+site/Gemfile
+site/.sass-cache
+site/Gemfile*
+entwurf*
+*entwurf
+*_site
