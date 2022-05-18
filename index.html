@@ -24,7 +24,7 @@ After two years of pandemic, the interdisciplinary PhD workshop ›AI and Democr
 
 <b> Interviews with participants </b>
 
-<video controls height="350" >
+<video controls height="400" >
   <source src="video.mp4" style="width:10%;"/>
 
 </video>
@@ -35,14 +35,19 @@ After two years of pandemic, the interdisciplinary PhD workshop ›AI and Democr
 
 <b> Panel discussion </b>
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=e_meOIWPy3Q" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+{% if include.width != '' %}
+  <div style="width: {{include.width}}; margin:0 auto;">
+{% else %}
+  <div>
+{% endif %}
+  <div class="ytcontainer">
+    <iframe width="710" height="400" class="yt" allowfullscreen src="https://www.youtube.com/embed/e_meOIWPy3Q"></iframe>
+  </div>
+</div>
 
 <p>
 
 <a class="read-more" href="{{ site.baseurl }}/podium"> [Read more about panel discussion...]</a>
-
 
 
 
