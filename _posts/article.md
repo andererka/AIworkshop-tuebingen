@@ -30,6 +30,10 @@ Both Neele and Christopher come from a technical background, where the *Silicon 
 
 Harmless AI applications can therefore quickly become harmful in the wrong hands, says Žilvinas Švedkauskas, one of the political scientists at the workshop: »When German engineers are sent to Middle Eastern countries like Egypt to develop AI-enabled applications, which could potentially be used for censorship or surveillance of civil society actors, government-affiliated enterprises usually make sure that engineers have a good time and don't think about the potential misuse of their algorithms too much. That is why it is of particular importance that we train these engineers beforehand to be aware of the context in which they are deploying these AI-enabled applications; so that they do not release them naively, without appropriate privacy safeguards.«
 
+
+
+![](images/f1.jpg)
+
 ### The Balancing Act
 
 Like Žilvinas, more than half of the workshop participants have a non-technical background. It is the balancing act that the workshop organizers must manage: On the one hand, enabling a truly interdisciplinary exchange and, on the other hand, not losing the common thread. After all, the topic of AI is so broad that scientists at an interdisciplinary workshop like this would have a very hard time to even agree on a definition. That makes it all the more important, Žilvinas believes, that such exchanges take place:

@@ -20,6 +20,8 @@ After two years of pandemic, the interdisciplinary PhD workshop ›AI and Democr
 
 On April 2nd, the time had finally come: The AI Research Building in Tübingen, colored white by snow, awaited the 23 scientists from different countries and disciplines. Ultimately, neither the bad weather nor the short-notice absences due to Covid-19 could dampen the inspiring atmosphere of this extended weekend, which for some participants was to be the first in-person congress of their scientific careers.
 
+<img src="/images/f1.jpg" style="width:800px;"/>
+
 ### Dual-use Technology
 
 Neele Falk, for instance, has only had one other in-person congress since she started her PhD on Natural Language Processing (NLP) more than two years ago, »and the congress at that time was by far not as exciting as this one«, she shares at one of the social evening events: »At that congress, I only had five minutes for my presentation and no real discussion ensued—just one or two boring questions from the audience. Here, on the other hand, we have 30 minutes for our presentations, and the discussions afterwards are really lively.« 
@@ -29,6 +31,8 @@ Neele’s presentation is about ›using AI to investigate argumentation in deli
 Both Neele and Christopher come from a technical background, where the *Silicon Valley* mentality of ›move fast and break things‹ still prevails, although there is more and more focus on responsible AI, Christopher says, adding that »dual-use cases can easily arise«. By dual-use, Christopher means applications that are subsequently used for a negative purpose other than the original. For instance, the use of AI to create misinformation or propaganda.
 
 Harmless AI applications can therefore quickly become harmful in the wrong hands, says Žilvinas Švedkauskas, one of the political scientists at the workshop: »When German engineers are sent to Middle Eastern countries like Egypt to develop AI-enabled applications, which could potentially be used for censorship or surveillance of civil society actors, government-affiliated enterprises usually make sure that engineers have a good time and don't think about the potential misuse of their algorithms too much. That is why it is of particular importance that we train these engineers beforehand to be aware of the context in which they are deploying these AI-enabled applications; so that they do not release them naively, without appropriate privacy safeguards.«
+
+
 
 ### The Balancing Act
 
@@ -84,6 +88,10 @@ Most World Café participants are students who, in one way or another, have some
 ### Human Encounter
 
 Most World Café participants did not fundamentally change their opinion on AI after the event, but all of them spoke positively about their discussions with the workshop participants and would be happy about further events of this kind. »The idea for the World Café and the PhD workshop was to put AI in a societal and political context«, says Larissa Höfling after the event, »but at the same time not to be the umpteenth workshop on ethics guidelines for AI. I was amazed that the interdisciplinary dialogue worked so well in the end.« What particularly surprised Larissa, however, was how quickly colleagues become friends: »It feels like you've been studying with these people since your first semester.«
+
+
+
+<img src="/images/f2.jpg" style="width:800px;"/>
 
 It is an interesting area of tension that unfolds over the weekend. On the one hand, artificial intelligence largely takes place in the digital realm: in misinformation campaigns on Twitter, government surveillance software, or automated text recognition on the internet. On the other hand, it becomes clear that the digital realm can never replace human encounter. »All this«, Larissa is certain, »would never have worked so well if we had done it online«, because the atmosphere in Tübingen stimulated the participants’ creativity as no online workshop ever could. 
 
