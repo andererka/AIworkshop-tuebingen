@@ -7,13 +7,13 @@ share: true
 authors: [Katharina Anderer]
 ---
 
+### [Find the panel discussion on YouTube](https://www.youtube.com/watch?v=e_meOIWPy3Q)
 
 
-### [Registration link](https://www.coworkgroup.de/wir/events/event-details?tx_sfeventmgt_pievent%5Baction%5D=detail&tx_sfeventmgt_pievent%5Bcontroller%5D=Event&tx_sfeventmgt_pievent%5Bevent%5D=209&cHash=96bef29bd931ef141bd7f1c94540d9b7)
 
-### [Follow the Live Stream on YouTube](https://www.youtube.com/TubingenML)
-
-
+ <iframe width="520"
+src="https://www.youtube.com/watch?v=e_meOIWPy3Q">
+</iframe> 
 
 Öffentliche Diskussionsrunde zu KI und Demokratie in der Westspitze
 
