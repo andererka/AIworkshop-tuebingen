@@ -20,12 +20,9 @@ After two years of pandemic, the interdisciplinary PhD workshop ›AI and Democr
 
 
 
-  <div style="width: {{include.width}}; margin:0 auto;">
-  <div>
-  <div class="ytcontainer">
-    <iframe width="710" height="400" class="yt" allowfullscreen src="https://youtu.be/kCBVdQaF5sc"></iframe>
-  </div>
-</div>
+<iframe width="710" height="400" src="https://www.youtube.com/embed/kCBVdQaF5sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Many missed the exchange in personal conversations, the forging of real connections, and the inspiration through encounters—yet this free flow of ideas is not only a foundation of democratic discourse but immensely important when it comes to discussing the future of artificial intelligence, says the workshop’s main organizer, Larissa Höfling:
 
